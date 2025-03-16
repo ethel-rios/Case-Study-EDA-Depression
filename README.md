@@ -76,10 +76,10 @@ For the dataset analysis I will use R because it offers a powerful and flexible 
 - Next, convert the gender variable to a factor in R, as this will allow R to treat it as a categorical variable.
 - Finally, add a new column that indicates whether both the depression and suicidal_thoughts columns are marked as 'Yes'. Because students who report both depression and suicidal thoughts are at higher risk of self-harm or suicide. This represents a critical mental health warning sign that requires immediate attention.
 
-To explore the code used in this analysis, refer to the "case-study-analyzing-depression-survey-data.ipynb" file.
+To explore the code used in this analysis, refer to the "_case-study-analyzing-depression-survey-data.ipynb" _file.
 
 ## Results
 
-The resulting visualizations can be found in the "Results.md" file.
+The resulting visualizations can be found in the _"Visualizations.md"_ file.
 
 
