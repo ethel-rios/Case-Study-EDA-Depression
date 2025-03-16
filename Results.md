@@ -7,3 +7,8 @@
 
 ## Depression Distribution
 <img src="https://github.com/user-attachments/assets/28e96c30-2d37-4203-84ba-440d5eeed34c" width="500"/>
+
+## Depression Across Different Age Groups
+![Captura de Pantalla 2025-03-16 a la(s) 13 41 52](https://github.com/user-attachments/assets/7f436715-8c70-407d-a608-82f584603a39)
+
+
