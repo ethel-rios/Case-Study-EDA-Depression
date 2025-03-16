@@ -82,4 +82,29 @@ To explore the code used in this analysis, refer to the "_case-study-analyzing-d
 
 The resulting visualizations can be found in the _"Visualizations.md"_ file.
 
+## Act Phase / Key Insights & Recommendations
+
+**The analysis reveals several key factors strongly associated with depression among students:**
+- High Academic Pressure, Low Study Satisfaction, High Financial Stress and Unhealthy Dietary Habits.
+
+**Age group that should be prioritized for mental health interventions**
+- The 18–22 age group should be prioritized for mental health interventions. This group exhibits the highest levels of depression, suicidal thoughts, and sensitivity to factors such as academic pressure and financial stress.
+
+**Based on the findings, the following programs could be implemented:**
+- Academic Pressure Management:
+  Introduce time management and study skills workshops to help students cope with academic demands and work with faculty to develop a more balanced curriculum and exam schedules to reduce academic pressure.
+
+- Financial Support Programs:
+  Provide financial aid, scholarships, or subsidized counseling to alleviate financial stress and offer workshops on financial literacy to help students manage their resources effectively.
+
+- Mental Health Awareness Campaigns:
+  Target the 18–22 age group with awareness campaigns to destigmatize mental health and  encourage students to seek help.
+
+- Counseling Services:
+  Offer accessible counseling services
+
+- Nutritional Support:
+  Provide healthy, affordable meal options on campus.
+
+
 
