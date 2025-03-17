@@ -53,3 +53,9 @@ Check out the **visualizations** in the _"Visualizations.md"_ file to see the in
 3. **Mental Health Awareness:** Run **awareness campaigns** targeted at 18–22-year-olds to reduce stigma and encourage seeking help.
 4. **Counseling Services:** Improve accessibility to **on-campus counseling** and mental health resources.
 5. **Nutritional Support:** Offer **affordable, healthy meals** to improve student well-being.
+
+
+## 📬 Contact  
+
+📧 Email: yanelirg@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/ethelrios/
