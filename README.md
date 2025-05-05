@@ -1,6 +1,6 @@
 # **Case Study: EDA on Depression Survey Data**  
 
-## ** Introduction**  
+## **Introduction**  
 This case study, part of the **Google Data Analytics Professional Certificate**, demonstrates my skills in data analysis through the **Ask, Prepare, Process, Analyze, Share, and Act** methodology. The goal: uncover key factors influencing **student depression** and propose **data-driven** mental health interventions.
 
 ## **Ask Phase**  
@@ -55,7 +55,7 @@ Check out the **visualizations** in the _"Visualizations.md"_ file to see the in
 5. **Nutritional Support:** Offer **affordable, healthy meals** to improve student well-being.
 
 
-## 📬 Contact  
+## Contact  
 
 📧 Email: yanelirg@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/ethelrios/
