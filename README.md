@@ -1,4 +1,4 @@
-# ** Case Study: EDA on Depression Survey Data**  
+# **Case Study: EDA on Depression Survey Data**  
 
 ## ** Introduction**  
 This case study, part of the **Google Data Analytics Professional Certificate**, demonstrates my skills in data analysis through the **Ask, Prepare, Process, Analyze, Share, and Act** methodology. The goal: uncover key factors influencing **student depression** and propose **data-driven** mental health interventions.
